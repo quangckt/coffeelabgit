@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/framework/utils
+END
+mimeTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/framework/utils/mimeTypes.php
+END
+CDateTimeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/framework/utils/CDateTimeParser.php
+END
+CMarkdownParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/framework/utils/CMarkdownParser.php
+END
+CFileHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/framework/utils/CFileHelper.php
+END
+CPropertyValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/framework/utils/CPropertyValue.php
+END
+CFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/framework/utils/CFormatter.php
+END
+CTimestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/framework/utils/CTimestamp.php
+END
+CVarDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/framework/utils/CVarDumper.php
+END

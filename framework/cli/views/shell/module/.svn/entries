@@ -1,0 +1,77 @@
+10
+
+dir
+10
+https://coffelab.googlecode.com/svn/trunk/framework/cli/views/shell/module
+https://coffelab.googlecode.com/svn
+
+
+
+2013-05-10T12:55:32.828768Z
+2
+quangckt@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+df27d1fc-add4-f895-c5ec-530497dc493a
+
+models
+dir
+
+components
+dir
+
+controllers
+dir
+
+messages
+dir
+
+module.php
+file
+
+
+
+
+2013-05-17T12:45:11.093750Z
+a97ef89d8542a49d40a950fd89bd1b5c
+2013-05-10T12:55:32.828768Z
+2
+quangckt@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+707
+
+views
+dir
+

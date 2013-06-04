@@ -1,0 +1,92 @@
+10
+
+dir
+10
+https://coffelab.googlecode.com/svn/trunk/framework/vendors
+https://coffelab.googlecode.com/svn
+
+
+
+2013-05-10T12:55:32.828768Z
+2
+quangckt@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+df27d1fc-add4-f895-c5ec-530497dc493a
+
+jquery
+dir
+
+README.html
+file
+
+
+
+
+2013-05-17T12:44:54.750000Z
+3ad18fbe1b0c1bb8bc439b947dfabc39
+2013-05-10T12:55:32.828768Z
+2
+quangckt@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3608
+
+markdown
+dir
+
+TextHighlighter
+dir
+
+cldr
+dir
+
+bbq
+dir
+
+gettext
+dir
+
+json
+dir
+
+adodb
+dir
+
+htmlpurifier
+dir
+
+jqueryui
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/framework/caching/dependencies
+END
+CDirectoryCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/framework/caching/dependencies/CDirectoryCacheDependency.php
+END
+CDbCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/framework/caching/dependencies/CDbCacheDependency.php
+END
+CExpressionDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/framework/caching/dependencies/CExpressionDependency.php
+END
+CChainedCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/framework/caching/dependencies/CChainedCacheDependency.php
+END
+CFileCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/framework/caching/dependencies/CFileCacheDependency.php
+END
+CCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/framework/caching/dependencies/CCacheDependency.php
+END
+CGlobalStateCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/framework/caching/dependencies/CGlobalStateCacheDependency.php
+END

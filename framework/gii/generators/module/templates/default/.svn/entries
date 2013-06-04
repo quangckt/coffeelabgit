@@ -1,0 +1,77 @@
+10
+
+dir
+10
+https://coffelab.googlecode.com/svn/trunk/framework/gii/generators/module/templates/default
+https://coffelab.googlecode.com/svn
+
+
+
+2013-05-10T12:55:32.828768Z
+2
+quangckt@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+df27d1fc-add4-f895-c5ec-530497dc493a
+
+models
+dir
+
+components
+dir
+
+controllers
+dir
+
+messages
+dir
+
+module.php
+file
+
+
+
+
+2013-05-17T12:45:25.828125Z
+bc12cddc675b1908d484eba5838e4941
+2013-05-10T12:55:32.828768Z
+2
+quangckt@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+725
+
+views
+dir
+
